@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hey there, this was created by me :)
+they want this line to be a meme 
 Use the left arrow to go back!
